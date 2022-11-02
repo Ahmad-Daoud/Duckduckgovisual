@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ddgcss.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    rel="stylesheet">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <title>DuckDuckGo -- Votre confidentialité, simplifiée</title>
+<body id="body">
+<div class="input-">
+       
+        <img src="https://logos-download.com/wp-content/uploads/2016/07/DuckDuckGo_logo_Duck_Duck_Go.png " id="center" alt="image">
+        <form action="/form/submit" method="GET" class="form">
+        
+        </form>
+    </div>
+    <br>
+    <div class="md-form mt-0">
+        <i class="material-icons mdc-button__icon">search</i>
+        <input type="url" style="height: 40px; width: 750px;" placeholder="Recherchez sur le web sans être traqués" aria-label="Search" width="">
+      
+      </div>
+<p id="s1">
+    <span id="p1" =>
+    Fatigués d'être traqués en ligne ? On peut vous aider.
+</span>
+<br>
+<span id="p2">
+    Rendez votre navigateur capable de protéger votre vie privée avec un simple téléchargement gratuit :
+</span>
+<br>
+<span id="p3>
+
+    <img src="https://pbs.twimg.com/media/Cxd9lVJXgAAF6vj.png" alt="tick" width="20px"> <img src="https://pbs.twimg.com/media/Cxd9lVJXgAAF6vj.png" alt="tick" width="20px"><span id="p3"> Recherches confidentielles   </span> <img src="https://pbs.twimg.com/media/Cxd9lVJXgAAF6vj.png" alt="tick" width="20px"> <span id="p3"> Blocage des traqueurs  </span> <img src="https://pbs.twimg.com/media/Cxd9lVJXgAAF6vj.png" alt="tick" width="20px"> <span id="p3">   Chiffrement Des sites</span>
+</span>
+<br>
+<a href="https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg" style="text-decoration: none;">
+<button type="submit" class="button" >
+
+  <span class="button-text"> <span class="S5">Ajouter DuckDuckGo à Edge</span>  </span>
+<span class="button-icon"> 
+
+</span>
+</a>
+</button>
+<br>
+<span class="p6">
+    Plébicité dans le monde entier!
+</span>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</p>
+</body>
+</html>
